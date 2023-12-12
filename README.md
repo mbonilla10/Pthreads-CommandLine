@@ -1,1 +1,1 @@
-Pthread coding through Windows command lines. Learned how to Github repositories, how search through computers, and how create & run files through the command line.
+Pthread coding through Windows command lines. Learned how to clone Github repositories, search through computers, and how to create & run files through the command line.
